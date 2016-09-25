@@ -1,5 +1,4 @@
 #Volcano
-React-gulp-webpack-sass
 ===================
 
 ![Icon](https://raw.githubusercontent.com/volcanocc/VolcanoUI/master/images/icon.png)
@@ -13,7 +12,7 @@ Now, when everything is ready, run the watch task and begin to develop your Reac
 $ gulp serve
 ```
 
-After development, you can run this task to generate production code.
+After development, you can run this task to production code.
 ```
 $ gulp build
 ```
