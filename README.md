@@ -1,4 +1,4 @@
-# [Volcano] 
+#Volcano
 React-gulp-webpack-sass
 ===================
 
